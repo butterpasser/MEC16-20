@@ -5,8 +5,6 @@ account: picklehari
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 319434
-bundleId: 1313008
+bundleId: 1359377
 url: https://butterpasser.shinyapps.io/MEC16-20/
-when: 1523424201.4744
-asMultiple: FALSE
-asStatic: FALSE
+when: 1525663027.7809
